@@ -6,27 +6,38 @@ Sample JavaScript codes
 
 The codes can easily be copied or cloned and ran.
 
-<a href="https://github.com/github_username/repo_name">##allArrays</a>
+<a href="https://github.com/EQITechG/JS_Version_1/blob/main/allArrays.js">allArrays</a>
 
-##case
+<a href="https://github.com/EQITechG/JS_Version_1/blob/main/case.js">case</a>
 
-##clusterArray
+<a href="https://github.com/EQITechG/JS_Version_1/blob/main/clusterArray.js">caseclusterArray</a>
 
-##costCalculator
+<a href="https://github.com/EQITechG/JS_Version_1/blob/main/costCalculator.js">costCalculator</a>
 
-##dogYearsCalculator
+<a href="https://github.com/EQITechG/JS_Version_1/blob/main/dogYearsCalculator.js">dogYearsCalculator</a>
 
-##forAndWhileLoops
 
-##galaxy
-##lightWaves
-##mutateArray
-##objectSpaceship
-##raceNumber
-##shortHandObjectsThis
-##slicingGroceryList
-##tempConvert
-##waterPlants
+<a href="https://github.com/EQITechG/JS_Version_1/blob/main/forAndWhileLoops.js">forAndWhileLoops</a>
+
+
+<a href="https://github.com/EQITechG/JS_Version_1/blob/main/galaxy.js">galaxy</a>
+
+<a href="https://github.com/EQITechG/JS_Version_1/blob/main/lightWaves.js">lightWaves</a>
+
+<a href="https://github.com/EQITechG/JS_Version_1/blob/main/mutateArray.js">mutateArray</a>
+
+<a href="https://github.com/EQITechG/JS_Version_1/blob/main/objectSpaceship.js">objectSpaceship</a>
+
+<a href="https://github.com/EQITechG/JS_Version_1/blob/main/raceNumber.js">raceNumber</a>
+
+<a href="https://github.com/EQITechG/JS_Version_1/blob/main/shortHandObjectsThis.js">shortHandObjectsThis</a>
+
+<a href="https://github.com/EQITechG/JS_Version_1/blob/main/slicingGroceryList.js">slicingGroceryList</a>
+
+<a href="https://github.com/EQITechG/JS_Version_1/blob/main/tempConvert.js">tempConvert</a>
+
+<a href="https://github.com/EQITechG/JS_Version_1/blob/main/waterPlants.js">waterPlants</a>
+
 
 
 
