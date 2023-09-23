@@ -7,11 +7,17 @@ Sample JavaScript codes
 The codes can easily be copied or cloned and ran.
 
 <a href="https://github.com/github_username/repo_name">##allArrays</a>
+
 ##case
+
 ##clusterArray
+
 ##costCalculator
+
 ##dogYearsCalculator
+
 ##forAndWhileLoops
+
 ##galaxy
 ##lightWaves
 ##mutateArray
